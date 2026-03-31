@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with Zotero.
+
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it using the metadata from this file.
+title:  >-
+  RockArtVisualisation
+type: software
+version: v1.0.0
+url: https://arcg.is/1LP8Gn3
+authors: 
+  - family-names: Potter
+    given-names: Rich
+  - family-names: Pitman
+    given-names: Derek
+  - family-names: Horn
+    given-names: Christian
+  - family-names: Green
+    given-names: Ashely
+date-released: 2026-03
+identifiers: 
+  - type: doi
+    value: 10.5281/zenodo.19360901
+
